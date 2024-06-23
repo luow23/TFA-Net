@@ -249,7 +249,7 @@ if __name__ == '__main__':
     for classname in MVTec_CLASS_NAMES:
         opt.class_name = classname
         # opt.class_name = 'capsule'
-        opt.referenc_img_file = f'data/mvtec_anomaly_detection/{opt.class_name}/train/good/000.png'
+        opt.referenc_img_file = f'{opt.data_root}/{opt.class_name}/train/good/000.png'
         # opt.referenc_img_file =  f'data/ref/{opt.class_name}/ref.png'
         # opt.referenc_img_file = f'natrual.JPEG'
         print(opt.class_name, opt.model_name)
