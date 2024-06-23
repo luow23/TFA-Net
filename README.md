@@ -1,4 +1,4 @@
-# [Template-based Feature Aggregation Network for industrial anomaly detection (EAAI 2024)](https://www.sciencedirect.com/science/article/pii/S0952197623019942?dgcid=coauthor)
+# [Template-based Feature Aggregation Network for industrial anomaly detection (EAAI 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0952197623019942)
 PyTorch implementation and for EAAI2024 paper, Template-based Feature Aggregation Network for industrial anomaly detection.  
 ![这是图片](network.png)  
 # Download Datasets
